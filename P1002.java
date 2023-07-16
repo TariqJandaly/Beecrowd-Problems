@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class P1002 { // Main
+public class P1002 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
