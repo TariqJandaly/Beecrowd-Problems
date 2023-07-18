@@ -1,6 +1,8 @@
 /*
     Problem: 1006
     Link   : https://www.beecrowd.com.br/judge/en/problems/view/1006
+
+    Written by @TariqJandaly
 */
 
 import java.util.Scanner;
@@ -14,7 +16,6 @@ public class P1006 {
         float C = input.nextFloat() * 5f;
 
         float MEDIA = (A + B + C) / 10f;
-
 
         input.close();
 

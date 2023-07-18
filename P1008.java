@@ -1,6 +1,8 @@
 /*
     Problem: 1008
     Link   : https://www.beecrowd.com.br/judge/en/problems/view/1008
+
+    Written by @TariqJandaly
 */
 
 import java.util.Scanner;
@@ -14,7 +16,6 @@ public class P1008 {
         float perHour = input.nextFloat();
 
         float SALARY = (hours * perHour);
-
 
         input.close();
 

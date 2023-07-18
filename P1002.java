@@ -1,6 +1,8 @@
 /*
     Problem: 1002
     Link   : https://www.beecrowd.com.br/judge/en/problems/view/1002
+
+    Written by @TariqJandaly
 */
 
 import java.util.Scanner;

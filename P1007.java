@@ -1,6 +1,8 @@
 /*
     Problem: 1007
     Link   : https://www.beecrowd.com.br/judge/en/problems/view/1007
+
+    Written by @TariqJandaly
 */
 
 import java.util.Scanner;
@@ -15,7 +17,6 @@ public class P1007 {
         int D = input.nextInt();
 
         int DIFERENCA = (A * B - C * D);
-
 
         input.close();
 
